@@ -7,6 +7,7 @@ Solving problems on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/987chinmoy-hash/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -28,4 +29,8 @@ Solving problems on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
