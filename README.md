@@ -9,6 +9,7 @@ Solving problems on leetcode
 | [0001-two-sum](https://github.com/987chinmoy-hash/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/987chinmoy-hash/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
