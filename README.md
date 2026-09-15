@@ -8,6 +8,7 @@ Solving problems on leetcode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/987chinmoy-hash/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/987chinmoy-hash/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -56,5 +57,6 @@ Solving problems on leetcode
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
