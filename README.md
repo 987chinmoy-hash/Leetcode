@@ -12,6 +12,7 @@ Solving problems on leetcode
 | [0268-missing-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/987chinmoy-hash/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/987chinmoy-hash/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/987chinmoy-hash/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
