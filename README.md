@@ -15,12 +15,14 @@ Solving problems on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/987chinmoy-hash/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/987chinmoy-hash/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/987chinmoy-hash/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/987chinmoy-hash/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/987chinmoy-hash/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +61,8 @@ Solving problems on leetcode
 | ------- | ------- |
 | [0136-single-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0268-missing-number/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/987chinmoy-hash/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
