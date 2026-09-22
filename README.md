@@ -16,6 +16,7 @@ Solving problems on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/987chinmoy-hash/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/987chinmoy-hash/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/987chinmoy-hash/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/987chinmoy-hash/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ Solving problems on leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/987chinmoy-hash/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/987chinmoy-hash/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +73,8 @@ Solving problems on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/987chinmoy-hash/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/987chinmoy-hash/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
