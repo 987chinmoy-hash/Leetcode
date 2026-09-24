@@ -3,21 +3,26 @@ public:
     int longestConsecutive(vector<int>& nums) {
         if (nums.empty()) return 0;
         int count  = 1;
-        int last_smaller = nums[0];
         int longest = 1;
-        sort(nums.begin(),nums.end());
-        for(int i= 0; i<nums.size();i++){
-            if(nums[i]-1==last_smaller){
-                count++;
-                last_smaller = nums[i];
-               
+        unordered_set<int> st;
+        for(int i =0;i<nums.size();i++){
+            st.insert(nums[i]);
+        }
+        for(auto it:st){
+            if(st.find(it - 1)==st.end()){
+                int count = 1;
+                int x = it;
+                while(st.find(x+1)!=st.end()){
+                    x++;
+                    count++;
+                    
+                }
+                longest = max(longest,count);
+
             }
-            else if(last_smaller!=nums[i]){
-                count = 1;
-                last_smaller = nums[i];
-            }
-        
-        longest = max(longest,count);
+
+            
+
         }
         return longest;
     }
