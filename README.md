@@ -21,6 +21,7 @@ Solving problems on leetcode
 | [0283-move-zeroes](https://github.com/987chinmoy-hash/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/987chinmoy-hash/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/987chinmoy-hash/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/987chinmoy-hash/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/987chinmoy-hash/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/987chinmoy-hash/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -33,6 +34,7 @@ Solving problems on leetcode
 | [0128-longest-consecutive-sequence](https://github.com/987chinmoy-hash/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0268-missing-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/987chinmoy-hash/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/987chinmoy-hash/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -100,4 +102,8 @@ Solving problems on leetcode
 | [0048-rotate-image](https://github.com/987chinmoy-hash/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/987chinmoy-hash/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/987chinmoy-hash/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/987chinmoy-hash/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
