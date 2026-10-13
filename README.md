@@ -14,6 +14,7 @@ Solving problems on leetcode
 | [0054-spiral-matrix](https://github.com/987chinmoy-hash/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/987chinmoy-hash/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/987chinmoy-hash/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/987chinmoy-hash/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/987chinmoy-hash/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/987chinmoy-hash/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0136-single-number/) | Easy |
@@ -88,6 +89,7 @@ Solving problems on leetcode
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/987chinmoy-hash/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/987chinmoy-hash/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/987chinmoy-hash/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/987chinmoy-hash/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
