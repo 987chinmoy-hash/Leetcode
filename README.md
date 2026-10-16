@@ -27,6 +27,7 @@ Solving problems on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/987chinmoy-hash/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/987chinmoy-hash/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/987chinmoy-hash/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/987chinmoy-hash/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/987chinmoy-hash/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/987chinmoy-hash/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -40,6 +41,7 @@ Solving problems on leetcode
 | [0268-missing-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/987chinmoy-hash/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/987chinmoy-hash/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/987chinmoy-hash/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -55,6 +57,7 @@ Solving problems on leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0645-set-mismatch](https://github.com/987chinmoy-hash/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +91,7 @@ Solving problems on leetcode
 | ------- | ------- |
 | [0136-single-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/987chinmoy-hash/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
