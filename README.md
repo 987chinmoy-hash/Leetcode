@@ -26,6 +26,7 @@ Solving problems on leetcode
 | [0283-move-zeroes](https://github.com/987chinmoy-hash/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/987chinmoy-hash/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0493-reverse-pairs](https://github.com/987chinmoy-hash/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/987chinmoy-hash/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/987chinmoy-hash/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/987chinmoy-hash/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -48,6 +49,7 @@ Solving problems on leetcode
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/987chinmoy-hash/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0493-reverse-pairs](https://github.com/987chinmoy-hash/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ Solving problems on leetcode
 | ------- | ------- |
 | [0268-missing-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0493-reverse-pairs](https://github.com/987chinmoy-hash/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +129,24 @@ Solving problems on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/987chinmoy-hash/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/987chinmoy-hash/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/987chinmoy-hash/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/987chinmoy-hash/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/987chinmoy-hash/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/987chinmoy-hash/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
