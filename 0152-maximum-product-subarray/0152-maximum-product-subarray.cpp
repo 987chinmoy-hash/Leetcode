@@ -3,24 +3,18 @@ public:
     int maxProduct(vector<int>& nums) {
         if (nums.empty()) return 0;
         
-        int max_prod = nums[0];
-        int min_prod = nums[0];
-        int result = nums[0];
+        int pre = 1,suff=1;
+        int ans = INT_MIN;
         
-        for (int i = 1; i < nums.size(); ++i) {
-            int curr = nums[i];
-            
-            // If we encounter a negative number, max and min products swap
-            if (curr < 0) {
-                swap(max_prod, min_prod);
-            }
-            
-            max_prod = max(curr, max_prod * curr);
-            min_prod = min(curr, min_prod * curr);
-            
-            result = max(result, max_prod);
+        for (int i = 0; i < nums.size(); ++i) {
+            if(pre==0) pre=1;
+            if(suff==0) suff=1;
+
+            pre = pre*nums[i];
+            suff = suff*nums[nums.size()-i-1];
+            ans = max(ans,max(pre,suff));
         }
         
-        return result;
+        return ans;
     }
 };
