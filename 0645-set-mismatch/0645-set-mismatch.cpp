@@ -1,23 +1,21 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        int repeating=-1,missing=-1;
-        vector<int> hash(nums.size()+1,0);
-
-        for(int i =0;i<nums.size();i++){
-            hash[nums[i]]++;
-        }
-        for(int i =1;i<=nums.size();i++){
-            if(hash[i] == 2) repeating =i;
-            else if(hash[i] == 0) missing = i;
-
-            if(repeating !=-1 && missing !=-1){
-                break;
-            }
-        }
-       
+       long long n = nums.size();
+       long long sA = (n*(n+1))/2;
+       long long s2A= (n*(n+1)*(2*n+1))/6;
+       long long s=0,s2=0;
+       for(int i =0;i<n;i++){
+            s += nums[i];
+            s2 += (long long)nums[i]*nums[i];
+       }
+       long long a = s - sA;
+       long long b = s2 - s2A;
+       long long c = b/a;
+       long long x = (a+c)/2;
+       long long y = (c-a)/2;
 
         
-        return {repeating,missing};
+        return {(int)x,(int)y};
     }
 };
