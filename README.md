@@ -38,6 +38,7 @@ Solving problems on leetcode
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/987chinmoy-hash/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/987chinmoy-hash/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/987chinmoy-hash/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/987chinmoy-hash/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/987chinmoy-hash/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -110,6 +111,7 @@ Solving problems on leetcode
 | [0268-missing-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0493-reverse-pairs](https://github.com/987chinmoy-hash/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/987chinmoy-hash/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Math
 | Problem Name | Difficulty |
