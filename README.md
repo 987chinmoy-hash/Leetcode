@@ -106,6 +106,7 @@ Solving problems on leetcode
 | [0033-search-in-rotated-sorted-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/987chinmoy-hash/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/987chinmoy-hash/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/987chinmoy-hash/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/987chinmoy-hash/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -119,6 +120,7 @@ Solving problems on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/987chinmoy-hash/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/987chinmoy-hash/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/987chinmoy-hash/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Bit Manipulation
@@ -182,4 +184,8 @@ Solving problems on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/987chinmoy-hash/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/987chinmoy-hash/Leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
