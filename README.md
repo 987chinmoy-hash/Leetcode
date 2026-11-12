@@ -43,6 +43,7 @@ Solving problems on leetcode
 | [0560-subarray-sum-equals-k](https://github.com/987chinmoy-hash/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/987chinmoy-hash/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/987chinmoy-hash/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/987chinmoy-hash/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1046-last-stone-weight](https://github.com/987chinmoy-hash/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/987chinmoy-hash/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/987chinmoy-hash/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -116,6 +117,7 @@ Solving problems on leetcode
 | [0493-reverse-pairs](https://github.com/987chinmoy-hash/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/987chinmoy-hash/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/987chinmoy-hash/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
