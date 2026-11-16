@@ -44,6 +44,7 @@ Solving problems on leetcode
 | [0645-set-mismatch](https://github.com/987chinmoy-hash/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/987chinmoy-hash/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/987chinmoy-hash/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/987chinmoy-hash/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/987chinmoy-hash/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/987chinmoy-hash/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/987chinmoy-hash/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -120,6 +121,7 @@ Solving problems on leetcode
 | [0540-single-element-in-a-sorted-array](https://github.com/987chinmoy-hash/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/987chinmoy-hash/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/987chinmoy-hash/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/987chinmoy-hash/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/987chinmoy-hash/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/987chinmoy-hash/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Math
