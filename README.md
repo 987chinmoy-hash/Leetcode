@@ -50,6 +50,7 @@ Solving problems on leetcode
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/987chinmoy-hash/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/987chinmoy-hash/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/987chinmoy-hash/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/987chinmoy-hash/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/987chinmoy-hash/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/987chinmoy-hash/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/987chinmoy-hash/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -84,6 +85,7 @@ Solving problems on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/987chinmoy-hash/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/987chinmoy-hash/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/987chinmoy-hash/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/987chinmoy-hash/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ Solving problems on leetcode
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/987chinmoy-hash/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/987chinmoy-hash/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/987chinmoy-hash/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/987chinmoy-hash/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
