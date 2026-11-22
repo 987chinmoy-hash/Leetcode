@@ -55,6 +55,7 @@ Solving problems on leetcode
 | [1552-magnetic-force-between-two-balls](https://github.com/987chinmoy-hash/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/987chinmoy-hash/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/987chinmoy-hash/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/987chinmoy-hash/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/987chinmoy-hash/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -173,6 +174,7 @@ Solving problems on leetcode
 | [0048-rotate-image](https://github.com/987chinmoy-hash/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/987chinmoy-hash/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/987chinmoy-hash/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/987chinmoy-hash/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
